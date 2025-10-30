@@ -192,7 +192,7 @@ export default function HomePage() {
           {/* CARD 8 */}
           <div className="bg-white rounded-2xl shadow-lg p-6 flex flex-col items-center text-center hover:shadow-xl transition">
             <div className="relative w-60 aspect-video rounded-xl overflow-hidden bg-gray-200">
-              <Image src="/intern-expo.jpg" alt="International Exposure" fill className="object-cover" />
+              <Image src="/card/intern-expo.jpg" alt="International Exposure" fill className="object-cover" />
             </div>
             <h3 className="text-xl font-semibold mb-2">International Exposure</h3>
             <p className="text-gray-600 text-sm mb-4">Selected as a delegate for a Cultural Exchange Program in the Philippines and represented the university at the Closing Ceremony in collaboration with ISPSC University.</p>
