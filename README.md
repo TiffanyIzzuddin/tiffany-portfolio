@@ -34,3 +34,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Applied SEO
+AUTOMATIC DENGAN NEXT-SITEMAP run ```npm install next-sitemap``` and write filre 'next-sitemap.config.js'.
+
+Run ```npm run build``` will resulting 'sitemap.xml' and robots.txt
