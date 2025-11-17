@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://tiffany-azhar-izzuddin.vercel.app
+
+# Sitemaps
+Sitemap: https://tiffany-azhar-izzuddin.vercel.app/sitemap.xml
